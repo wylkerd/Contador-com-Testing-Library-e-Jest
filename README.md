@@ -1,4 +1,4 @@
-# Testando componentes react :octopus: :zap:
+# Testando componentes react :octopus::zap:
 
 ### comandos
 - npm install
